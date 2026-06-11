@@ -1,0 +1,9 @@
+# raw data is large and redistributable only via LOBSTER's own site
+data/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
